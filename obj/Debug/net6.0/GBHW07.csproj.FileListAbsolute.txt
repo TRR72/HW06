@@ -1,0 +1,15 @@
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.csproj.AssemblyReference.cache
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.AssemblyInfoInputs.cache
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.AssemblyInfo.cs
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.csproj.CoreCompileInputs.cache
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\bin\Debug\net6.0\GBHW07.exe
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\bin\Debug\net6.0\GBHW07.deps.json
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\bin\Debug\net6.0\GBHW07.runtimeconfig.json
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\bin\Debug\net6.0\GBHW07.dll
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\bin\Debug\net6.0\GBHW07.pdb
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.dll
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\refint\GBHW07.dll
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.pdb
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\GBHW07.genruntimeconfig.cache
+C:\Users\Regina\Desktop\GB\Homework\GBHW07\obj\Debug\net6.0\ref\GBHW07.dll
